@@ -1,1 +1,3 @@
-# Welcome-to-LMM-world
+# Welcome to LMM world
+这是我的第一个GitHub仓库！
+我正在学习如何使用GitHub。
